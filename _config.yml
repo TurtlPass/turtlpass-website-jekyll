@@ -1,12 +1,13 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: TurtlPass
+email: hello@turtlpass.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Easily generate strong, unique passwords with TurtlPass. No more weak, easy-to-guess passwords.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://turtlpass.com" 
 
-twitter_username:
-github_username:
+patreon_username: turtlpass
+github_username: turtlpass
 
 # Build settings
 markdown: kramdown

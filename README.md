@@ -1,14 +1,18 @@
-# Creative Theme for Jekyll
+<p align="center">
+<img src="img/icon-no-padding.png" alt="logo" width=90>
+<h3 align="center">TurtlPass Website</h3>
+<p align="center">
+We are a password generation tool that helps you create strong and unique passwords for all of your accounts.</p>
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+We are using the [Creative Theme for Jekyll](https://github.com/volny/creative-theme-jekyll) as the starting point for our website. To learn more about this theme please visit the original repository.
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+We have made some modifications to the original template to fit the needs of our project, and we will continue to update and improve upon the theme as we move forward.
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+Thank you for checking out our project, and we hope you find it useful. If you have any questions or suggestions, please don't hesitate to reach out to us.
 
-## To use the Creative Theme template in your project
+Stay safe and secure with TurtlPass!
 
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
 
+## 📄 License
+
+TurtlPass Website is released under the [Apache-2.0 license](https://github.com/TurtlPass/turtlpass-website-jekyll/blob/master/LICENCE).
