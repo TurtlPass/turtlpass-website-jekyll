@@ -1,16 +1,12 @@
 {
-  "attributes" : [
+  "name": "#000",
+  "description": "A unique NFT item for the off-chain NFT collection.",
+  "image": "https://turtlpass.com/token/0.png",
+  "external_url" : "https://turtlpass.com/?token",
+  "attributes": [
     {
-      "trait_type" : "type",
-      "value" : "Seed"
-    },
-    {
-      "trait_type" : "bit",
-      "value" : 4096
+      "trait_type": "Metadata",
+      "value": "Off-chain"
     }
-  ],
-  "name" : "Seed 4096 bits",
-  "description" : "Random seed with 4096-bit strength",
-  "external_url" : "https://turtlpass.com/?seed",
-  "image" : "https://turtlpass.com/img/seed-30cee309-fbbe-429d-a32b-781b9cf64728.jpg"
+  ]
 }

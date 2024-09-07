@@ -1,6 +1,7 @@
 {
-  "name": "Marketplace Seeds",
-  "description": "Seed collection",
-  "image" : "https://turtlpass.com/img/icon-no-padding.png",
+  "name": "Off-chain NFT Collection",
+  "description": "Collection of NFTs off-chain.",
+  "image": "https://turtlpass.com/img/blockchain-seeds.png",
+  "cover_image": "https://turtlpass.com/img/blockchain-banner.jpg",
   "external_link": "https://turtlpass.com"
 }
