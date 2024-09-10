@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/icon-no-padding.png" alt="logo" width=90>
+<img src="https://raw.githubusercontent.com/TurtlPass/turtlpass-firmware-arduino/main/assets/icon.png" alt="logo" width=90>
 <h3 align="center">TurtlPass Website</h3>
 <p align="center">
 We are a password generation tool that helps you create strong and unique passwords for all of your accounts.</p>
